@@ -188,6 +188,7 @@ typekit do
         '/base/JointsTrajectory' => 'trajectory_msgs/JointTrajectory',
         '/base/samples/RigidBodyState' => 'geometry_msgs/PoseStamped',
         '/base/Pose' => 'geometry_msgs/Pose',
-        '/base/samples/Pointcloud' => 'sensor_msgs/PointCloud2'
+        '/base/samples/Pointcloud' => 'sensor_msgs/PointCloud2',
+        '/base/samples/Event' => 'dvs_msgs/Event'
 end
 
